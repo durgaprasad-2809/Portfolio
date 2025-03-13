@@ -18,9 +18,6 @@
 ## 🚀 Technologies Used  
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** Bootstrap, TailwindCSS (optional), React.js (if applicable)  
-- **Backend (if used):** Node.js, Django, PHP  
-- **Animations:** GSAP, AOS  
-- **Deployment:** GitHub Pages / Vercel / Netlify  
+- **Deployment:** Netlify  
 
 ---
